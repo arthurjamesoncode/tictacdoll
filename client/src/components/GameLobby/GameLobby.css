@@ -1,0 +1,24 @@
+.players {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 1rem;
+}
+
+.player-name {
+  color: white;
+  border-radius: 5px;
+  padding: 10px
+}
+
+h3 {
+  display: inline;
+}
+
+.first {
+  background-color: #e25026;
+}
+
+.second {
+  background-color: #267ee2;
+}
